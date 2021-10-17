@@ -6,4 +6,4 @@ We will create an application using TDD and the amazing part is that we will onl
 
 The testing library that will use is called Testing Library(https://testing-library.com/). When you use npx create react app it comes preloaded.
 
-YouTube  https://youtu.be/-CFpJh_SRjo
+YouTube  https://youtu.be/7WY1cfRoUJk
